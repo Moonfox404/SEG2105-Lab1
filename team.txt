@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 Eric
+
 Xuan
-Savini 
-Emily
-=======
-Xuan
->>>>>>> 1d94f1e895eba657c7beaf8ea4e1cfa9e4867387
